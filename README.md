@@ -5,13 +5,13 @@ to watch it in action https://youtu.be/6qKsim2Stbk
 
 you are going to need 
 
-Powershell
+-Powershell
 
-Python
+-Python
 
-pip (to install requirements.txt)
+-pip (to install requirements.txt)
 
     pip install -r requirements.txt
     
     
-windows
+-Windows 10-11?

@@ -15,5 +15,10 @@ you are going to need
     
     
 -Windows 10-11?
+
+
 ----------------------
 the code and files are messy but you can go through them if you want
+
+to properly run it you should make a shortcut of the 'run.bat' file (you can put that file anywhere)
+in the properties of the shortcut set it to open in a minimized window
